@@ -1,0 +1,2 @@
+button[data-start],button[data-stop]{min-width:80px;min-height:40px}button[data-start]:not([disabled]):hover,button[data-start]:not([disabled]):focus{background-color:#85ff7c;border:2px outset #212121;border-radius:4%}button[data-stop]:not([disabled]):hover,button[data-stop]:not([disabled]):focus{background-color:#ff7c94;border:2px outset #212121;border-radius:4%}
+/*# sourceMappingURL=01-color-switcher.6e081cff.css.map */
