@@ -1,0 +1,16 @@
+.form {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.form input {
+  display: block;
+}
+
+.form input,
+.form button[type='submit'] {
+  min-width: 100px;
+  height: 35px;
+}

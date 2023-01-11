@@ -24,14 +24,3 @@
   font-size: 50px;
   max-height: 70px;
 }
-
-/* .field:not(:last-of-type) .value::after {
-  content: ':';
-  margin-left: 15px;
-} */
-
-/* .field:not(:last-of-type)::after {
-  content: ':';
-  margin-left: 10px;
-  font-size: 50px;
-} */
